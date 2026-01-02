@@ -10,8 +10,9 @@ Install MySQL Community Server and MySQL Workbench if needed. Make sure the serv
 Install Required Python Libraries
 Open a terminal or command prompt and run:
 
-pip install customtkinter pillow mysql-connector-python
-
+pip install customtkinter
+pip install pillow
+pip install mysql-connector-python
 
 Set Up the Database
 
